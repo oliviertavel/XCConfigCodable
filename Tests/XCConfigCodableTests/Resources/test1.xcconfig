@@ -1,0 +1,12 @@
+//
+//  test1.xcconfig
+//  xcconfigcodable
+//
+//  Created by Olivier Tavel on 13/08/21.
+//  Copyright © 2021 Olivier Tavel. All rights reserved.
+//
+
+APP_NAME = MyApp
+APP_VERSION = 1.1.0
+APP_BUILD_VERSION = 1
+SCHEME = myapp

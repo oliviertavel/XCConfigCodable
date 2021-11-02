@@ -23,6 +23,7 @@ let package = Package(
             dependencies: []),
         .testTarget(
             name: "XCConfigCodableTests",
-            dependencies: ["XCConfigCodable"]),
+            dependencies: ["XCConfigCodable"],
+            resources: [.process("Resources")]),
     ]
 )
